@@ -1,7 +1,5 @@
 "use strict";
 
-let incr = 10, decr = 10;
+const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "");
 
-incr++; decr--;
-
-console.log(incr, decr);
+const personalMovieDB = {};
