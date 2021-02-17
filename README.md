@@ -1,0 +1,3 @@
+# JSProject
+
+JavaScript project
